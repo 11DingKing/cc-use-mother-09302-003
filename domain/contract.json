@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "product": "非遗教案版本会审",
+  "source_context": "http://edu.people.com.cn/n1/2026/0924/c1006-40804947.html",
+  "actors": [
+    "非遗传承人",
+    "思政教师",
+    "教研组"
+  ],
+  "states": [
+    "共创",
+    "送审",
+    "会签",
+    "发布",
+    "更正"
+  ],
+  "invariants": [
+    "内容版本",
+    "贡献归属",
+    "会审回避",
+    "差异比较"
+  ],
+  "sample_cases": [
+    {
+      "case_id": "09302-003-A",
+      "actor": "非遗传承人",
+      "state": "共创"
+    },
+    {
+      "case_id": "09302-003-B",
+      "actor": "教研组",
+      "state": "送审"
+    }
+  ],
+  "tags": [
+    "lesson-versioning",
+    "joint-review"
+  ]
+}
